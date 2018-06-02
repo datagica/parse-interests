@@ -1,0 +1,2161 @@
+[{
+    "id": "french-culture",
+    "label": {
+      "fr": "Culture française",
+      "en": "French culture"
+    },
+    "aliases": {
+      "fr": [
+        "culture française"
+      ],
+      "en": [
+        "french culture",
+        "french wine"
+      ]
+    },
+    "category": "culture"
+  }, {
+    "id": "american-culture",
+    "label": {
+      "fr": "Culture nord-américaine",
+      "en": "American culture"
+    },
+    "aliases": {
+      "fr": [
+        "culture américaine",
+        "culture nord-américaine",
+        "culture americaine",
+        "culture nord-americaine"
+      ],
+      "en": [
+        "american culture",
+        "americanism",
+        "patriotism"
+      ]
+    },
+    "category": "culture"
+  }, {
+    "id": "japanese-culture",
+    "label": {
+      "en": "Japanese culture",
+      "fr": "Culture japonaise"
+    },
+    "aliases": {
+      "fr": [
+        "culture japonaise",
+        "culture nipone",
+        "culture nippone",
+        "culture niponne",
+        "culture nipponne",
+        "japon",
+        "sabre japonais"
+      ],
+      "en": [
+        "japanese culture",
+        "japan",
+        "japanime"
+      ]
+    },
+    "category": "culture"
+  }, {
+    "id": "charities",
+    "label": {
+      "en": "Charities",
+      "fr": "Causes humanitaires"
+    },
+    "aliases": {
+      "fr": [
+        "charité",
+        "solidarité",
+        "bénévole",
+        "bénévolat",
+        "bénévoles",
+        "bénévolement",
+        "but caritatif",
+        "causes humanitaires",
+        "cause humanitaire",
+        "aide humanitaire",
+        "aides humanitaires",
+        "humanitaire",
+        "association humanitaire",
+        "ong humanitaire",
+        "association caritative",
+        "organisation caritative",
+        "pays en voie de développement",
+        "don du sang",
+        "soupe populaire",
+        "création d'une école",
+        "aide de réfugiés",
+        "aide aux réfugiés",
+        "aide aux migrants",
+        "campagne de sensibilisation",
+        "campagnes de sensibilisation",
+        "voyages humanitaires",
+        "voyage humanitaire",
+        "association solidarité"
+      ],
+      "en": [
+        "charity",
+        "charities",
+        "volunteer",
+        "humanitarian",
+        "humanitarian organization",
+        "non profit organization",
+        "humanitarian travel",
+        "renovating a school",
+        "renovated a school"
+      ]
+    },
+    "category": "charities"
+  }, {
+    "id": "red-cross",
+    "label": {
+      "fr": "Croix Rouge",
+      "en": "Red Cross"
+    },
+    "aliases": {
+      "en": [
+        "red cross",
+        "youth red cross",
+        "french red cross"
+      ],
+      "fr": [
+        "croix rouge",
+        "croix rouge française"
+      ]
+    },
+    "category": "charities"
+  }, {
+    "id": "doctors-without-borders",
+    "label": {
+      "fr": "Médecins sans frontières",
+      "en": "Doctors without borders"
+    },
+    "aliases": {
+      "fr": [
+        "médecins sans frontières"
+      ],
+      "en": [
+        "doctors without borders"
+      ]
+    },
+    "category": "charities"
+  }, {
+    "id": "workout",
+    "label": {
+      "fr": "Musculation",
+      "en": "Workout"
+    },
+    "aliases": {
+      "en": [
+        "workout",
+        "fitness",
+        "fitness sports",
+        "kizomba",
+        "crossfit",
+        "strength training"
+      ],
+      "fr": [
+        "musculation"
+      ]
+    },
+    "category": "sports"
+  }, {
+    "id": "running",
+    "label": {
+      "en": "Running",
+      "fr": "Course à pied"
+    },
+    "aliases": {
+      "en": [
+        "footing",
+        "running",
+        "marathon",
+        "endurance"
+      ],
+      "fr": [
+        "course à pied",
+        "course à pieds",
+        "course a pied",
+        "course a pieds"
+      ]
+    },
+    "category": "sports"
+  }, {
+    "id": "video-games",
+    "label": {
+      "en": "Video games",
+      "fr": "Jeux vidéos"
+    },
+    "aliases": {
+      "en": [
+        "video gaming",
+        "e-sport",
+        "e-sports",
+        "videogames",
+        "video-games",
+        "video games",
+        "videogame",
+        "video-game",
+        "video game",
+        "xbox",
+        "playstation",
+        "starcraft",
+        "counter-strike",
+        "counterstrike",
+        "counter strike",
+        "world of warcraft",
+        "league of legends"
+      ],
+      "fr": [
+        "jeux vidéos",
+        "jeux videos"
+      ]
+    },
+    "category": "games"
+  }, {
+    "id": "ninjutsu",
+    "label": {
+      "en": "Ninjutsu",
+      "fr": "Ninjutsu"
+    },
+    "aliases": [
+      "ninjutsu"
+    ],
+    "category": "combat-sports"
+  }, {
+    "id": "virtual-reality",
+    "label": {
+      "en": "Virtual Reality",
+      "fr": "Réalité Virtuelle"
+    },
+    "aliases": {
+      "en": [
+        "virtual reality"
+      ],
+      "fr": [
+        "réalité virtuelle"
+      ]
+    },
+    "category": "technology"
+  }, {
+    "id": "tabletop-games",
+    "label": {
+      "en": "Tabletop games",
+      "fr": "Jeux de cartes"
+    },
+    "aliases": {
+      "fr": [
+        "jeux de table",
+        "jeux de plateau"
+      ],
+      "en": [
+        "tabletop games",
+        "tabletop game",
+        "tabletop gaming"
+      ]
+    },
+    "category": "games"
+  }, {
+    "id": "board-games",
+    "label": {
+      "en": "Board games",
+      "fr": "Jeux de société"
+    },
+    "aliases": {
+      "fr": [
+        "jeux de société",
+        "jeux de stratégie"
+      ],
+      "en": [
+        "board games",
+        "board game",
+        "board gaming",
+        "strategy games"
+      ]
+    },
+    "category": "tabletop-games"
+  }, {
+    "id": "card-games",
+    "label": {
+      "en": "Card games",
+      "fr": "Jeux de cartes"
+    },
+    "aliases": {
+      "fr": [
+        "jeux de cartes",
+        "jeux de carte"
+      ],
+      "en": [
+        "card game",
+        "card games",
+        "cards games"
+      ]
+    },
+    "category": "tabletop-games"
+  }, {
+    "id": "poker",
+    "label": {
+      "en": "Poker",
+      "fr": "Poker"
+    },
+    "aliases": {
+      "en": [
+        "poker",
+        "pro poker",
+        "pro poker player",
+        "poker player",
+        "poker tournament",
+        "poker tournaments"
+      ],
+      "fr": [
+        "tournoi de poker",
+        "tournois de poker",
+        "joueur pro de poker",
+        "joueuse pro de poker",
+        "joueur professionnel de poker",
+        "joueuse professionnelle de poker"
+      ]
+    },
+    "category": "card-games"
+  }, {
+    "id": "judo",
+    "label": {
+      "en": "Judo",
+      "fr": "Judo"
+    },
+    "aliases": {
+      "en": [
+        "judo",
+        "jujitsu",
+        "jujutsu"
+      ]
+    },
+    "category": "martial-arts"
+  }, {
+    "id": "aikido",
+    "label": {
+      "en": "Aikido",
+      "fr": "Aikido"
+    },
+    "aliases": {
+      "en": [
+        "aikido"
+      ],
+      "fr": [
+        "aïkido"
+      ]
+    },
+    "category": "martial-arts"
+  }, {
+    "id": "karate",
+    "label": {
+      "en": "Karate",
+      "fr": "Karate"
+    },
+    "aliases": {
+      "en": [
+        "karate"
+      ],
+      "fr": [
+        "karaté"
+      ]
+    },
+    "category": "martial-arts"
+  }, {
+    "id": "krav-maga",
+    "label": {
+      "en": "Krav Maga",
+      "fr": "Krav Maga",
+      "he": "קְרַב מַגָּע",
+      "ja": "クラヴ・マガ"
+    },
+    "aliases": {
+      "en": [
+        "kravmaga",
+        "krav maga",
+        "krav-maga"
+      ],
+      "he": [
+        "קְרַב מַגָּע"
+      ]
+  },
+    "category": "combat-sports"
+  }, {
+    "id": "taekwondo",
+    "label": {
+      "fr": "Taekwondo",
+      "en": "Taekwondo"
+    },
+    "aliases": {
+      "en": [
+        "taekwondo"
+      ]
+    },
+    "category": "martial-arts"
+  }, {
+    "id": "aikibudo",
+    "label": {
+      "fr": "Aikibudo",
+      "en": "Aikibudo"
+    },
+    "aliases": {
+      "en": [
+        "aikibudo"
+      ]
+    },
+    "category": "martial-arts"
+  },
+  {
+    "id": "kobudo",
+    "label": {
+      "fr": "Kobudō",
+      "en": "Kobudō"
+    },
+    "aliases": {
+      "en": [
+        "kobudo",
+        "kobudō",
+        "okinawan kobudo",
+        "okinawan kobudō"
+      ],
+      "ja": [
+        "古武道",
+        "沖縄古武道",
+        "琉球古武術",
+        "kobujutsu",
+        "ryūkyū kobujutsu"
+      ]
+    },
+    "category": "martial-arts"
+  },
+  {
+    "id": "crossword",
+    "label": {
+      "fr": "Mots-croisés",
+      "en": "Crossword"
+    },
+    "aliases": {
+      "en": [
+        "crossword",
+        "crosswords"
+      ],
+      "fr": [
+        "cruciverbiste",
+        "mots croisés",
+        "mots fléchés",
+        "mots flèches",
+        "mots-croisés",
+        "mots-fléchés",
+        "mots-flèches",
+        "mots croises",
+        "mots flechés",
+        "mots fleches",
+        "mots-croises",
+        "mots-fleches"
+      ]
+    },
+    "category": "hobbies"
+  }, {
+    "id": "boxing",
+    "label": {
+      "en": "Boxing",
+      "fr": "Boxe"
+    },
+    "aliases": {
+      "fr": [
+        "boxe",
+        "boxe anglaise"
+      ],
+      "en": [
+        "boxing"
+      ]
+    },
+    "category": "combat-sports"
+  }, {
+    "id": "martial-arts",
+    "label": {
+      "en": "Martial Arts",
+      "fr": "Arts Martiaux"
+    },
+    "aliases": {
+      "en": [
+        "combat sport",
+        "combat sports",
+        "martial arts",
+        "martial art"
+      ],
+      "fr": [
+        "art martial",
+        "arts martiaux",
+        "sports de combat",
+        "sport de combat"
+      ]
+    },
+    "category": "combat-sports"
+  }, {
+    "id": "piano",
+    "label": {
+      "en": "Piano",
+      "fr": "Piano"
+    },
+    "aliases": {
+      "it": [
+        "piano"
+      ],
+      "fr": [
+        "piano droit",
+        "piano à queue",
+        "piano jazz",
+        "piano classique",
+        "piano for 1 year",
+        "piano for 2 years",
+        "piano for 3 years",
+        "piano for 4 years",
+        "piano for 5 years",
+        "piano for 6 years",
+        "piano for 7 years",
+        "piano for 8 years",
+        "piano for 9 years",
+        "piano for 10 years",
+        "piano for 11 years",
+        "piano for 12 years",
+        "piano for 13 years",
+        "piano for 14 years",
+        "piano for 15 years",
+        "piano depuis 1 an",
+        "piano depuis 2 ans",
+        "piano depuis 3 ans",
+        "piano depuis 4 ans",
+        "piano depuis 5 ans",
+        "piano depuis 6 ans",
+        "piano depuis 7 ans",
+        "piano depuis 8 ans",
+        "piano depuis 9 ans",
+        "piano depuis 10 ans",
+        "piano depuis 11 ans",
+        "piano depuis 12 ans",
+        "piano depuis 13 ans",
+        "piano depuis 14 ans",
+        "piano depuis 15 ans"
+      ]
+    },
+    "category": "musical-instruments"
+  }, {
+    "id": "musical-instruments",
+    "label": {
+      "en": "Musical instruments",
+      "fr": "Instruments de musique"
+    },
+    "aliases": {
+      "fr": [
+        "intruments de musique",
+        "instruments de musique rares",
+        "instrument de musique"
+      ],
+      "en": [
+        "music instrument",
+        "musicinstruments",
+        "musical instrument",
+        "musical instruments"
+      ]
+    },
+    "category": "music"
+  }, {
+    "id": "synthetizer",
+    "label": {
+      "en": "Synthetizer",
+      "fr": "Synthétiseur"
+    },
+    "aliases": {
+      "en": [
+        "synthetizer",
+        "synthetizers"
+      ],
+      "fr": [
+        "synthétiseur",
+        "synthétiseurs"
+      ]
+    },
+    "category": "musical-instruments"
+  }, {
+    "id": "Drum machines",
+    "label": {
+      "en": "Drum machines",
+      "fr": "Boîtes à rythmes"
+    },
+    "aliases": {
+      "en": [
+        "drum machine",
+        "drum machines",
+        "drums machine",
+        "drums machines"
+      ],
+      "fr": [
+        "boite a rythmes",
+        "boite à rythmes",
+        "boîte à rythmes",
+        "boites a rythmes",
+        "boites à rythmes",
+        "boîtes à rythmes"
+      ]
+    },
+    "category": "musical-instruments"
+  }, {
+    "id": "deejay",
+    "label": {
+      "en": "Deejay",
+      "fr": "Deejay"
+    },
+    "aliases": [
+      "djing",
+      "deejay",
+      "disc jokey",
+      "dj",
+      "scratch",
+      "scratching",
+      "dj mix",
+      "dj mixing",
+      "mixage audio",
+      "mixage dj",
+      "remixing",
+      "remixer",
+      "remixed",
+      "turntablism",
+      "turntables"
+    ],
+    "category": "music"
+  }, {
+    "id": "guitar",
+    "label": {
+      "en": "Guitar",
+      "fr": "Guitare"
+    },
+    "aliases": {
+      "en": [
+        "guitar playing",
+        "playing guitar",
+        "guitar",
+        "acoustic guitar",
+        "electric guitar",
+        "bass guitar",
+        "classical guitar",
+        "flamenco",
+        "flamenco guitar"
+      ],
+      "fr": [
+        "de la basse",
+        "guitare éléctrique",
+        "guitare electrique",
+        "guitare",
+        "jazz manouche",
+        "guitare flamenco",
+        "guitare classique"
+      ]
+    },
+    "category": "musical-instruments"
+  }, {
+    "id": "violin",
+    "aliases": [
+      "violon",
+      "violin"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "politics",
+    "aliases": [
+      "politics",
+      "politique",
+      "discussing politics",
+      "political debate",
+      "discussions politiques",
+      "debats politiques",
+      "débats politiques",
+      "action citoyenne",
+      "actions citoyennes",
+      "critique citoyenne",
+      "actualités politiques",
+      "débat citoyen",
+      "vie citoyenne",
+      "vie politique",
+      "dialogue citoyen",
+      "campagne politique",
+      "campagnes politiques",
+      "membre du parti"
+    ],
+    "category": "politics"
+  }, {
+    "id": "geopolitics",
+    "aliases": [
+      "politique internationale",
+      "international affairs",
+      "geopolitics",
+      "geopolitic",
+      "géopolitique",
+      "géopolitique du monde",
+      "politique du monde",
+      "actualités géopolitiques"
+    ],
+    "category": "politics"
+  }, {
+    "id": "comics-and-mangas",
+    "aliases": [
+      "manga",
+      "mangas",
+      "comics",
+      "bandes dessinées",
+      "bande dessinée",
+      "comics and mangas",
+      "comic and manga",
+      "manga and comic",
+      "mangas and comics"
+    ],
+    "category": "culture"
+  }, {
+    "id": "band-member",
+    "label": {
+      "en": "Band member",
+      "fr": "Membre d'un groupe"
+    },
+    "aliases": [
+      "orchestre",
+      "orchestre amateur",
+      "amateur orchestra",
+      "orchestra",
+      "band member",
+      "jazz band member",
+      "rock band member",
+      "member of a band",
+      "member of a jazz band",
+      "member of a rock band",
+      "member of the band",
+      "member of the jazz band",
+      "member of the rock band",
+      "membre d'un groupe de musique",
+      "membre d'un groupe de jazz",
+      "membre d'un groupe de rock",
+      "groupe de musique",
+      "groupe de jazz",
+      "groupe de rock"
+    ],
+    "category": "music"
+  }, {
+    "id": "science-fiction",
+    "label": {
+      "en": "Science-fiction",
+      "fr": "Science-fiction"
+    },
+    "aliases": [
+      "asimov",
+      "greg egan",
+      "science fiction",
+      "hard science",
+      "science-fiction",
+      "science-fictions",
+      "sf novels",
+      "romans de science fiction",
+      "romans de science-fiction",
+      "nouvelle de science-fiction",
+      "nouvelles de science-fiction"
+    ],
+    "category": "culture"
+  }, {
+    "id": "hiking",
+    "label": {
+      "en": "Hiking",
+      "fr": "Randonnée"
+    },
+    "aliases": [
+      "hikes",
+      "hiking",
+      "marche à pied",
+      "marche à pieds",
+      "randonnée",
+      "randonnées",
+      "randonnee",
+      "randonnees",
+      "randonnée en montagne",
+      "randonnées en montagne",
+      "randonnee en montagne",
+      "randonnees en montagne",
+      "mountain hiking"
+    ],
+    "category": "sports"
+  }, {
+    "id": "underwater sports",
+    "label": {
+      "en": "Underwater sports",
+      "fr": "Sports sous-marins"
+    },
+    "aliases": [
+      "underwater sports",
+      "subaquatic sports",
+      "underwater sport",
+      "subaquatic sport",
+      "sports sous-marins",
+      "sports sous marins",
+      "sports sousmarins",
+      "sports subaquatiques",
+      "sport subaquatique",
+      "sport sous-marin",
+      "sport sous marin",
+      "sport sousmarin"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "finswimming",
+    "label": {
+      "en": "Finswimming"
+    },
+    "aliases": [
+      "finswimming",
+      "monofin",
+      "bi-fins",
+      "surface swimming",
+      "apnoea finswimming",
+      "immersion swimming",
+      "nage avec palmes",
+      "monopalme"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "freediving",
+    "label": {
+      "en": "Freediving",
+      "fr": "Plongée libre"
+    },
+    "aliases": [
+      "freediving",
+      "free diving",
+      "free-diving",
+      "static apnea",
+      "dynamic apnea",
+      "skandalopetra",
+      "jump blue",
+      "plongée libre",
+      "plongee libre",
+      "apnée",
+      "apnee",
+      "plongée en apnée",
+      "plongee en apnee",
+      "apnéiste",
+      "apneiste"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "spearfishing",
+    "label": {
+      "en": "Spearfishing"
+    },
+    "aliases": [
+      "Spearfishing"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "aquathlon",
+    "label": {
+      "en": "Aquathlon",
+      "fr": "Aquathlon"
+    },
+    "aliases": [
+      "aquathlon"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "sport diving",
+    "label": {
+      "en": "Sport Diving"
+    },
+    "aliases": [
+      "sport diving"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater football",
+    "label": {
+      "en": "Underwater football"
+    },
+    "aliases": [
+      "underwater football"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater hockey",
+    "label": {
+      "en": "Underwater hockey"
+    },
+    "aliases": [
+      "underwater hockey"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater ice iockey",
+    "label": {
+      "en": "Underwater hockey"
+    },
+    "aliases": [
+      "underwater ice hockey",
+      "sub-aqua ice hockey",
+      "hockey sur glace sous-marin",
+      "hockey sous-glace"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater orienteering",
+    "label": {
+      "en": "Underwater orienteering"
+    },
+    "aliases": [
+      "underwater orienteering"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater photography",
+    "label": {
+      "en": "Underwater photography"
+    },
+    "aliases": [
+      "underwater photography"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater rugby",
+    "label": {
+      "en": "Underwater rugby"
+    },
+    "aliases": [
+      "underwater rugby"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater target shooting",
+    "label": {
+      "en": "Underwater target shooting",
+      "fr": "Tir sur cible subaquatique",
+      "es": "Tiro al Blanco Subacuático"
+    },
+    "aliases": [
+      "underwater target shooting"
+    ],
+    "category": "underwater sports"
+  }, {
+    "id": "underwater video",
+    "label": {
+      "en": "Underwater video",
+      "fr": "Vidéo sous-marine"
+    },
+    "aliases": [
+      "underwater video",
+      "vidéo sous-marine",
+      "vidéo subaquatique"
+    ],
+    "category": "underwater sports"
+  },
+
+  {
+    "id": "Swimming",
+    "label": {
+      "en": "Swimming",
+      "fr": "Natation"
+    },
+    "aliases": [
+      "natation",
+      "swimming",
+      "nage",
+      "nage en haute mer",
+      "nager",
+      "piscine"
+    ],
+    "category": "sports"
+  }, {
+    "id": "cooking",
+    "label": {
+      "en": "Cooking",
+      "fr": "Cuisine"
+    },
+    "aliases": [
+      "to cook",
+      "cook",
+      "cooking",
+      "cuisine",
+      "pastries",
+      "pâtisserie",
+      "patisserie",
+      "cuisiner",
+      "cuisinier",
+      "cuisinière",
+      "cuisiniere",
+      "faire la cuisine",
+      "faire à manger",
+      "cooking course",
+      "cooking courses",
+      "cours de cuisine"
+    ],
+    "category": "cooking"
+  }, {
+    "id": "astronomy",
+    "label": {
+      "en": "Astronomy",
+      "fr": "Astronomie"
+    },
+    "aliases": [
+      "astronomy",
+      "astronomie"
+    ],
+    "category": "science"
+  }, {
+    "id": "biology",
+    "label": {
+      "en": "Biology",
+      "fr": "Biologie"
+    },
+    "aliases": [
+      "biology",
+      "biologie"
+    ],
+    "category": "science"
+  }, {
+    "id": "3d printing",
+    "label": {
+      "en": "3D Printing",
+      "fr": "Impression 3D"
+    },
+    "aliases": [
+      "3D printing",
+      "3D printer",
+      "3D printers",
+      "impression 3D",
+      "imprimante 3D",
+      "imprimantes 3D"
+    ],
+    "category": "science"
+  }, {
+    "id": "robotics",
+    "label": {
+      "en": "Robotics",
+      "fr": "Robotique"
+    },
+    "aliases": [
+      "robotics",
+      "robot",
+      "robots",
+      "drones",
+      "robot building",
+      "robot programming",
+      "programmation de robot",
+      "programmation de robots"
+    ],
+    "category": "science"
+  }, {
+    "id": "crafting",
+    "label": {
+      "en": "Crafting",
+      "fr": "Artisanat"
+    },
+    "aliases": [
+      "crafting",
+      "artisanat",
+      "travaux manuels",
+      "bricolage"
+    ],
+    "category": "crafting"
+  }, {
+    "id": "knitting",
+    "aliases": [
+      "tricot",
+      "tricots",
+      "tricoter",
+      "hand knitting",
+      "knitting",
+      "to knit",
+      "knit",
+      "warp knitting",
+      "purl stiches",
+      "shadow knitting",
+      "entrelac",
+      "basket weaving",
+      "lace knitting",
+      "ribbing",
+      "mega knitting"
+    ],
+    "category": "crafting"
+  }, {
+    "id": "windsurfing",
+    "label": {
+      "en": "Windsurfing",
+      "fr": "Planche à voile"
+    },
+    "aliases": {
+      "en": [
+        "windsurfing",
+        "windsurf"
+      ],
+      "fr": [
+        "planche a voile",
+        "planche à voile"
+      ]
+    },
+    "category": "sports"
+  }, {
+    "id": "sailing",
+    "label": {
+      "en": "Sailing",
+      "fr": "Nautisme"
+    },
+    "aliases": {
+      "en": [
+        "sailing",
+        "sailor",
+        "catamaran",
+        "trimaran",
+        "yatch",
+        "boat",
+        "spinnaker"
+      ],
+      "fr": [
+        "nautisme",
+        "nautisme à la voile",
+        "bateau",
+        "voile",
+        "voilier",
+        "dériveur",
+        "cabotage",
+        "monocoque",
+        "régate"
+      ]
+    },
+    "category": "sports"
+  }, {
+    "id": "photography",
+    "label": {
+      "en": "Photography",
+      "fr": "Photographie"
+    },
+    "aliases": {
+      "en": [
+        "photography",
+        "animal photography"
+      ],
+      "fr": [
+        "photographie",
+        "photographie animale"
+      ]
+    },
+    "category": "arts"
+  }, {
+    "id": "treasurer",
+    "aliases": [
+      "tresorier",
+      "trésorier",
+      "trésorie",
+      "tresorie",
+      "treasurer",
+      "treasury",
+      "treasure"
+    ],
+    "category": "associative life"
+  }, {
+    "id": "asssociative life",
+    "aliases": [
+      "student association",
+      "member of student",
+      "association d'étudiants",
+      "organisateur bénévole",
+      "organisateur de concert",
+      "organisation de concert"
+    ],
+    "category": "associative life"
+  }, {
+    "id": "singing",
+    "aliases": [
+      "chant",
+      "chanter",
+      "chanteur",
+      "chanteuse",
+      "singer",
+      "singing"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "choir",
+    "label": {
+      "en": "Choir",
+      "fr": "Chorale"
+    },
+    "aliases": [
+      "chœur",
+      "choeur",
+      "chorus",
+      "chorale",
+      "choral",
+      "choir",
+      "choral music",
+      "choirmaster",
+      "choral conducting",
+      "choir conducting",
+      "cathedral choir",
+      "church choir",
+      "community choir",
+      "gospel",
+      "gospel choir"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "cello",
+    "aliases": [
+      "violoncelle",
+      "cello",
+      "cellos",
+      "celli",
+      "violoncello",
+      "CelloBello",
+      "International Cello Society",
+      "World Cello Congress",
+      "Violoncello Society of New York",
+      "London Cello Society"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "gastronomy",
+    "label": {
+      "en": "Gastronomy",
+      "fr": "Gastronomie"
+    },
+    "aliases": [
+      "gastronomie",
+      "gastronomy",
+      "gastronomie française",
+      "french gastronomy",
+      "gastronome",
+      "gastronomes"
+    ],
+    "category": "culture"
+  }, {
+    "id": "chocolate",
+    "label": {
+      "en": "Chocolate",
+      "fr": "Chocolat"
+    },
+    "aliases": [
+      "chocolate",
+      "chocolates",
+      "chocolat",
+      "chocolats",
+      "chocolate making",
+      "fabrication de chocolat",
+      "chocolat suisse",
+      "chocolats suisses",
+      "hot chocolate",
+      "dégustation de chocolat",
+      "chocolat noir",
+      "cocoa",
+      "cocoa beans"
+    ],
+    "category": "fooding"
+  }, {
+    "id": "drums",
+    "label": {
+      "en": "Drums",
+      "fr": "Batterie"
+    },
+    "aliases": [
+      "drumming",
+      "drummer",
+      "drums",
+      "drum kit",
+      "trap set",
+      "drum set",
+      "batterie",
+      "batteur",
+      "batteuse"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "parachuting",
+    "label": {
+      "en": "Parachuting",
+      "fr": "Saut en parachute"
+    },
+    "aliases": [
+      "skydiver",
+      "skydiving",
+      "parachuting",
+      "skydive",
+      "saut en parachute",
+      "saut en tandem",
+      "tandem skydiving",
+      "accelerated freefall",
+      "stuff jump",
+      "stuff jumps",
+      "parachutisme",
+      "base jump",
+      "parachute",
+      "sky surf",
+      "skysurf",
+      "skysurfing",
+      "freefly",
+      "vol relatif",
+      "VRV",
+      "wingsuit",
+      "wingsuit flying",
+      "wing suit",
+      "swooping",
+      "canopy piloting"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "kitesurf",
+    "label": {
+      "en": "Kitesurf",
+      "fr": "Kitesurf"
+    },
+    "aliases": [
+      "kitesurf",
+      "kitesurfer",
+      "kitesurfing",
+      "kitesurfeur",
+      "kitesurfeuse"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "paragliding",
+    "aliases": [
+      "paragliding",
+      "paraglider",
+      "parapente"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "skateboarding",
+    "aliases": [
+      "skateboarding",
+      "skateboarder",
+      "skateboard",
+      "skate"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "sandboarding",
+    "aliases": [
+      "sandboarding",
+      "sandboarder",
+      "sandboard"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "snowboarding",
+    "label": {
+      "en": "Snowboarding",
+      "fr": "Snowboarding"
+    },
+    "aliases": [
+      "snowboarding",
+      "snowboarder",
+      "snowboard"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "surf",
+    "label": {
+      "en": "Surf",
+      "fr": "Surf"
+    },
+    "aliases": [
+      "surf",
+      "surfer",
+      "surfeur",
+      "surfeuse",
+      "surfing"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "Snowskating",
+    "aliases": [
+      "snowskating",
+      "snowskate",
+      "snowskater"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "motocross",
+    "label": {
+      "en": "Motocross",
+      "fr": "Motocross"
+    },
+    "aliases": [
+      "motocross"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "scuba",
+    "label": {
+      "en": "Scuba diving",
+      "fr": "Plongée sous-marine"
+    },
+    "aliases": [
+      "scuba",
+      "scuba diving",
+      "scuba diver",
+      "plongée",
+      "plongeur",
+      "plongée sous-marine",
+      "plongée sousmarine",
+      "plongee",
+      "plongee sous-marine",
+      "plongee sousmarine"
+    ],
+    "category": "extreme sports"
+  },
+  {
+    "id": "caving",
+    "label": {
+      "en": "Caving",
+      "fr": "Spéléologie"
+    },
+    "aliases": [
+      "caving",
+      "spelunking",
+      "potholing",
+      "cave diving",
+      "caver",
+      "speleology",
+      "spéléologie",
+      "speleologie",
+      "spéléologue",
+      "speleologue",
+      "spéléiste",
+      "speleiste",
+      "spéléonaute",
+      "spéléoplongeur",
+      "speleonaute",
+      "speleoplongeur"
+    ],
+    "category": "extreme sports"
+  },
+
+  {
+    "id": "rafting",
+    "label": {
+      "en": "Rafting",
+      "fr": "Rafting"
+    },
+    "aliases": [
+      "rafting"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "volleyball",
+    "label": {
+      "en": "Volleyball",
+      "fr": "Volleyball"
+    },
+    "aliases": [
+      "volleyball",
+      "volley ball",
+      "volley"
+    ],
+    "category": "team sports"
+  }, {
+    "id": "Handball",
+    "label": {
+      "en": "Handball",
+      "fr": "Handball"
+    },
+    "aliases": [
+      "hand ball",
+      "handball"
+    ],
+    "category": "team sports"
+  }, {
+    "id": "Basketball",
+    "label": {
+      "en": "Basketball",
+      "fr": "Basket"
+    },
+    "aliases": [
+      "basket ball",
+      "basketball",
+      "basket"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "Paintball",
+    "label": {
+      "en": "Paintball",
+      "fr": "Paintball"
+    },
+    "aliases": [
+      "paintball"
+    ],
+    "category": "extreme sports"
+  }, {
+    "id": "Acting",
+    "label": {
+      "fr": "Jouer du théatre",
+      "en": "Acting"
+    },
+    "aliases": [
+      "acting",
+      "jouer du théatre",
+      "mise en scène",
+      "lamda qualification",
+      "dramatic art",
+      "dramaturgie",
+      "drama school",
+      "acteur amateur",
+      "comédien amateur",
+      "spectacle de rue",
+      "théatre improvisé",
+      "improvisation théatrale"
+    ],
+    "category": "arts"
+  }, {
+    "id": "rugby",
+    "label": {
+      "en": "Rugby",
+      "fr": "Rugby"
+    },
+    "aliases": [
+      "rugby"
+    ],
+    "category": "team sports"
+  },{
+    "id": "soccer",
+    "label": {
+      "en": "Soccer",
+      "fr": "Football"
+    },
+    "aliases": [
+      "football",
+      "foot",
+      "soccer",
+      "football club",
+      "local football club",
+      "captain of local football club",
+      "captain of local football team",
+      "captain of football club",
+      "captain of football team",
+      "soccer club",
+      "local soccer club",
+      "captain of local soccer club",
+      "captain of local soccer team",
+      "captain of soccer club",
+      "captain of soccer team"
+    ],
+    "category": "team sports"
+  }, {
+    "id": "american football",
+    "aliases": [
+      "American Football"
+    ],
+    "category": "team sports"
+  }, {
+    "id": "reading",
+    "label": {
+      "en": "Reading",
+      "fr": "Lecture"
+    },
+    "aliases": {
+      "fr": [
+        "lecture",
+        "lire des livres",
+        "nouvelles"
+      ],
+      "en": [
+        "book reading",
+        "novel reading",
+        "reading",
+        "reading novels",
+        "reading books",
+        "novels"
+      ]
+    },
+    "category": "distraction"
+  }, {
+    "id": "painting",
+    "label": {
+      "en": "Painting",
+      "fr": "Peinture"
+    },
+    "aliases": {
+      "en": [
+        "to paint",
+        "painting",
+        "gestural painting",
+        "landscape painting",
+        "artivism",
+        "airbrushing",
+        "airbrusher",
+        "painter",
+        "watercolor",
+        "inking",
+        "encaustic painting",
+        "aerosol paint",
+        "spray painting",
+        "graffiti",
+        "tempera",
+        "oil paint"
+      ],
+      "fr": [
+        "peinture",
+        "peinture sur bois",
+        "aquarelle",
+        "peinture à l'huile",
+        "peinture a l'huile",
+        "peinture a l huile",
+        "peinture acrylique",
+        "acrylique",
+        "aérographe",
+        "aerographe",
+        "peintre",
+        "peindre",
+        "gouache",
+        "enamel"
+      ]
+    },
+    "category": "arts"
+  }, {
+    "id": "dance",
+    "label": {
+      "en": "Dance",
+      "fr": "Danse"
+    },
+    "aliases": {
+      "fr": [
+        "danse",
+        "danse classique",
+        "danse orientale",
+        "rock 4 temps",
+        "rock 6 temps",
+        "rock 4 et 6 temps",
+        "rock 6 et 4 temps",
+        "danseur",
+        "danseuse",
+        "danseur étoile",
+        "danseuse étoile",
+        "danseuse de ballet",
+        "danse irlandaise",
+        "danse latine",
+        "danses latines",
+        "danse moderne"
+      ],
+      "es": [
+        "tango",
+        "salsa",
+        "capoeira",
+        "quebrada",
+        "merengue",
+        "cueca",
+        "plena",
+        "jarabe",
+        "joropo",
+        "marinera",
+        "cumbia"
+      ],
+      "en": [
+        "dance",
+        "dancing",
+        "breakdance",
+        "rock and roll",
+        "african dance",
+        "ballet",
+        "classical ballet",
+        "ballet dancer",
+        "dancer",
+        "swing",
+        "irish dance",
+        "latin dance",
+        "folk dance",
+        "zouk",
+        "dancesport",
+        "modern dance",
+        "lindy hop",
+        "tap dance",
+        "oriental dance"
+      ]
+    },
+    "category": "music"
+  }, {
+    "id": "travel",
+    "label": {
+      "en": "Travel",
+      "fr": "Voyage"
+    },
+    "aliases": {
+      "fr": [
+        "voyage",
+        "voyages",
+        "voyager",
+        "voyage culturel",
+        "voyages culturels",
+        "voyages en inde",
+        "voyages en europe",
+        "voyages en asie"
+      ],
+      "en": [
+        "travel",
+        "travels",
+        "traveler",
+        "travelling",
+        "cultural travel",
+        "cultural travels"
+      ]
+    },
+    "category": "culture"
+  }, {
+    "id": "cinema",
+    "label": {
+      "en": "Cinema",
+      "fr": "Cinéma"
+    },
+    "aliases": [
+      "cinema",
+      "cinéma",
+      "cinéphile"
+    ],
+    "category": "arts"
+  }, {
+    "id": "medias",
+    "label": {
+      "fr": "Médias",
+      "en": "Medias"
+    },
+    "aliases": [
+      "medias",
+      "médias"
+    ],
+    "category": "distraction"
+  }, {
+    "id": "music-festival",
+    "label": {
+      "en": "Music festival",
+      "fr": "Festival de musique"
+    },
+    "aliases": {
+      "en": [
+        "music festival",
+        "music festivals",
+        "festival goer",
+        "festivalgoer"
+      ],
+      "fr": [
+        "participer à des festivals",
+        "aller à des festivals",
+        "assister à des festivals"
+      ]
+    }
+  }, {
+    "id": "music-listening",
+    "label": {
+      "en": "Music listening",
+      "fr": "Ecouter de la musique"
+    },
+    "aliases": {
+      "en": [
+        "music",
+        "music listening",
+        "listening to music",
+        "vinyls",
+        "hi-fi",
+        "sono",
+        "sound system",
+        "vinyl record",
+        "vinyl records",
+        "vinyl collection",
+        "gramophones",
+        "phonographs",
+        "33 rpm",
+        "45 rpm",
+        "78 rpm"
+      ],
+      "fr": [
+        "musique",
+        "collectionne des vinyles",
+        "collectionne des vinyls",
+        "collectionner des vinyles",
+        "collectionner des vinyls",
+        "vinyles",
+        "écouter de la musique",
+        "écouter des disques",
+        "audiophile"
+      ]
+    },
+    "category": "distraction"
+  }, {
+    "id": "bicycle",
+    "label": {
+      "en": "Bicycle",
+      "fr": "Vélo"
+    },
+    "aliases": [
+      "bicycle",
+      "bicyclette",
+      "cyclisme",
+      "vélo",
+      "vélo de montagne",
+      "biking",
+      "mountain biking",
+      "mountain bike",
+      "tour de france"
+    ],
+    "category": "sports"
+  }, {
+    "id": "typography",
+    "label": {
+      "en": "Typography",
+      "fr": "Typographie"
+    },
+    "aliases": [
+      "typography",
+      "typographie",
+      "typographies",
+      "création typographique"
+    ],
+    "category": "graphic design"
+  }, {
+    "id": "saxophone",
+    "label": {
+      "en": "Saxophone",
+      "fr": "Saxophone"
+    },
+    "aliases": [
+      "saxophone",
+      "saxophoniste"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "trombone",
+    "label": {
+      "en": "Trombone",
+      "fr": "Trombone"
+    },
+    "aliases": [
+      "trombone",
+      "tromboniste"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "flute",
+    "label": {
+      "en": "Flute",
+      "fr": "Flute"
+    },
+    "aliases": [
+      "flute",
+      "flutes",
+      "flutiste",
+      "flûte",
+      "flûtes",
+      "flûtiste"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "bagpipe",
+    "label": {
+      "en": "Bagpipe",
+      "fr": "Cornemuse"
+    },
+    "aliases": [
+      "bagpipe",
+      "bagpipes",
+      "cornemuse",
+      "cornemuses"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "trompette",
+    "label": {
+      "en": "Trumpet",
+      "fr": "Trompette"
+    },
+    "aliases": [
+      "trompette",
+      "trumpet"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "accordion",
+    "label": {
+      "fr": "Accordéon",
+      "en": "Accordion"
+    },
+    "aliases": [
+      "accordion",
+      "accordéon"
+    ],
+    "category": "musical-instruments"
+  }, {
+    "id": "pottery",
+    "label": {
+      "en": "Pottery",
+      "fr": "Poterie"
+    },
+    "aliases": [
+      "pottery",
+      "poterie"
+    ],
+    "category": "crafting"
+  }, {
+    "id": "sculpture",
+    "label": {
+      "en": "Sculpture",
+      "fr": "Sculpture"
+    },
+    "aliases": [
+      "sculpture",
+      "stone sculpture",
+      "sculture sur pierre",
+      "sculpteur",
+      "sculpteuse",
+      "plaster mold casting"
+    ],
+    "category": "arts"
+  }, {
+    "id": "fishing",
+    "label": {
+      "en": "Fishing",
+      "fr": "Pêche"
+    },
+    "aliases": {
+      "en": [
+        "fishing",
+        "fly fishing",
+        "recreational fishing",
+        "sport fishing",
+        "big-game fishing",
+        "angling"
+      ],
+      "fr": [
+        "pêcher",
+        "pecheur",
+        "pêche en eau douche",
+        "pêche en haute mer",
+        "pêche récréative",
+        "pêche de loisir",
+        "pêche amateur",
+        "pêche à la ligne",
+        "pêche récréative en mer",
+        "pêche maritime de loisir",
+        "pêche sportive"
+      ]
+    },
+    "category": "outdoor"
+  }, {
+    "id": "scrapbooking",
+    "label": {
+      "en": "Scrapbooking",
+      "fr": "Scrapbooking"
+    },
+    "aliases": {
+      "en": [
+        "scrapbooking"
+      ]
+    },
+    "category": "crafting"
+  }, {
+    "id": "equestrianism",
+    "label": {
+      "en": "Equestrianism",
+      "fr": "Équitation"
+    },
+    "aliases": {
+      "en": [
+        "equestrianism",
+        "riding",
+        "horse",
+        "horse riding",
+        "horseback riding"
+      ],
+      "fr": [
+        "équitation",
+        "monter à cheval",
+        "cheval",
+        "sport hippique",
+        "saut d'obstacle",
+        "randonnée équestre",
+        "équestre",
+        "équitation éthologique"
+      ]
+    },
+    "category": "sports"
+  }, {
+    "id": "drawing",
+    "label": {
+      "en": "Drawing",
+      "fr": "Dessin"
+    },
+    "aliases": {
+      "en": [
+        "sketching",
+        "drawing"
+      ],
+      "fr": [
+        "dessin",
+        "dessiner",
+        "croquis"
+      ]
+    },
+    "category": "arts"
+  }, {
+    "id": "diy",
+    "label": {
+      "en": "Do it yourself",
+      "fr": "Do it yourself"
+    },
+    "aliases": {
+      "en": [
+        "diy",
+        "do it yourself",
+        "fab lab"
+      ],
+      "fr": [
+        "faites-le vous-même",
+        "faites-le par vous-même",
+        "fais-le toi-même",
+        "fait maison",
+        "fait à la main"
+      ]
+    },
+    "category": "distraction"
+  }, {
+    "id": "juggling",
+    "label": {
+      "en": "Juggling",
+      "fr": "Jonglage"
+    },
+    "aliases": {
+      "en": [
+        "juggling",
+        "juggler",
+        "toss juggling",
+        "diabolo",
+        "devil sticks",
+        "poi",
+        "cigar boxes",
+        "contact juggling",
+        "hooping",
+        "hat manipulation",
+        "palm spinning"
+      ],
+      "fr": [
+        "jongle",
+        "jonglage",
+        "jonglage aérien",
+        "jonglerie",
+        "jongleur",
+        "jongleuse",
+        "boîte à cigares"
+      ],
+      "ja": [
+        "ジャグリング",
+        "シガーボックス"
+      ]
+    },
+    "category": "arts"
+  }, {
+    "id": "kabaddi",
+    "label": {
+      "en": "Kabaddi",
+      "fr": "Kabaddi"
+    },
+    "aliases": {
+      "en": [
+        "kabaddi"
+      ]
+    },
+    "category": "team sports"
+  }, {
+    "id": "genealogy",
+    "label": {
+      "en": "Genealogy",
+      "fr": "Généalogie"
+    },
+    "aliases": {
+      "en": [
+        "genealogy",
+        "genealogies",
+        "genealogical research",
+        "amateur genealogist",
+        "family history"
+      ],
+      "fr": [
+        "généalogie",
+        "généalogiste",
+        "filiation"
+      ],
+      "ja": [
+        "系譜学"
+      ]
+    },
+    "category": "culture"
+  }, {
+    "id": "diy",
+    "label": {
+      "en": "Floristry",
+      "fr": "Do it yourself"
+    },
+    "aliases": {
+      "en": [
+        "floral arrangement",
+        "floral arranging",
+        "floral design",
+        "floristry",
+        "amateur florist"
+      ],
+      "fr": [
+        "arrangement floral",
+        "arrangements floraux"
+      ],
+      "ja": [
+        "ikebana",
+        "生け花",
+        "kadō",
+        "華道",
+        "花道",
+        "kusamono"
+      ]
+    },
+    "category": "distraction"
+  }, {
+    "id": "calligraphy",
+    "label": {
+      "en": "Calligraphy",
+      "fr": "Calligraphie"
+    },
+    "aliases": [
+      "calligraphie",
+      "calligraphie moderne",
+      "calligraphie chinoise",
+      "calligraphie japonaise",
+      "calligraphy",
+      "modern calligraphy",
+      "chinese calligraphy",
+      "japanese calligraphy"
+    ],
+    "category": "distraction"
+  }, {
+    "id": "yoga",
+    "label": {
+      "en": "Yoga",
+      "fr": "Yoga"
+    },
+    "aliases": [
+      "yoga",
+      "meditation"
+    ],
+    "category": "distraction"
+  }, {
+    "id": "gardening",
+    "label": {
+      "en": "Gardening",
+      "fr": "Jardinage"
+    },
+    "aliases": [
+      "jardinage",
+      "jardin",
+      "gardening",
+      "garden design"
+    ],
+    "category": "distraction"
+  }
+]
