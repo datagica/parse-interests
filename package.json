@@ -1,6 +1,6 @@
 {
   "name": "@datagica/parse-interests",
-  "version": "0.0.3",
+  "version": "0.0.11",
   "description": "Extract interests from text",
   "main": "./index.js",
   "scripts": {
